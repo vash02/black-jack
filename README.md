@@ -25,4 +25,4 @@ Face cards (Jack, Queen, King) count as 10 points.
 The dealer hits until reaching a hand value of 17 or higher.
 
 ## Reference
-"Complete Python Bootcamp: Go from zero to hero in Python 3" course by Pierian Data. The original code can be found at Pierian-Data/Complete-Python-3-Bootcamp.
+The code used for reference can be found at Pierian-Data/Complete-Python-3-Bootcamp.
