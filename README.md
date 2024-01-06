@@ -4,7 +4,7 @@ This is a simple console-based implementation of the classic card game Blackjack
 ## How to Play
 Clone the repository:
 <pre>
-git clone https://github.com/your-username/black-jack.git
+git clone https://github.com/vash02/black-jack.git
 </pre>
 
 Navigate to the project directory:
