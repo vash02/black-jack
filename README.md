@@ -25,4 +25,5 @@ Face cards (Jack, Queen, King) count as 10 points.
 The dealer hits until reaching a hand value of 17 or higher.
 
 ## Reference
-The code used for reference can be found at Pierian-Data/Complete-Python-3-Bootcamp.
+The code used for reference can be found at https://github.com/Pierian-Data/Complete-Python-3-Bootcamp.git
+
