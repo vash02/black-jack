@@ -4,17 +4,17 @@ This is a simple console-based implementation of the classic card game Blackjack
 ## How to Play
 Clone the repository:
 <pre>
-git clone https://github.com/your-username/blackjack-game.git
+git clone https://github.com/your-username/black-jack.git
 </pre>
 
 Navigate to the project directory:
 <pre>
-bash cd blackjack-game
+bash cd black-jack
 </pre>
 
 Run the game:
 <pre>
-bash python blackjack.py
+bash python main.py
 </pre>
 
 Follow the on-screen instructions to play the game.
